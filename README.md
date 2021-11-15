@@ -119,4 +119,5 @@ ___
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-man-123&theme=monokai)
 
