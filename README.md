@@ -77,7 +77,7 @@ ___
 </p>
   
 <p align="center">
-  <a href="https://github.com/ManuriosX"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuriosX&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/Aiman"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuriosX&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
