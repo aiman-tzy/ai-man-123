@@ -25,6 +25,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+   <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
+</p>
+<p align="center">
+
  <h1 align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 
 <p align="center">
