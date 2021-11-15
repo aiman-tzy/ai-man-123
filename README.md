@@ -69,7 +69,7 @@ ___
 ___
    
    <p align="center">
-  <a href="https://github.com/ai-man-123"><img src="https://github-readme-stats.vercel.app/api?username=ManuriosX&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/ai-man-123"><img src="https://github-readme-stats.vercel.app/api?username=AimanX&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ ___
 </p>
   
 <p align="center">
-  <a href="https://github.com/Aiman"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuriosX&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/Aiman"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiman&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
