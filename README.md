@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-<!--
-**ai-man-123/ai-man-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://avatars.githubusercontent.com/ai-man-123" width="150" height="150"/>
+</p>
+<h1 align='center'>Hallo bang👋 :wave:</h1>
+<p align='center'>Hi There, I'm Aiman</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
