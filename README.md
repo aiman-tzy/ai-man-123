@@ -53,8 +53,12 @@ ___
 <a target="_blank" href="https://api-xcoders.xyz/"><img alt="FXC7 TEAM" src="https://img.shields.io/badge/FXC7 TEAM%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
+### Spotify Playing 🎧
 
-___
+<p align="center">
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
 ```
             Visitors
 ```
