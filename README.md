@@ -121,3 +121,17 @@ ___
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-man-123&theme=monokai)
 
+</p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=ai-man-123)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/ai-man-123?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+
+</details> 
