@@ -135,3 +135,4 @@ ___
 ![Metrics](https://metrics.lecoq.io/ai-man-123?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
 </details> 
+<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
