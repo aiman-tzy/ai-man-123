@@ -62,7 +62,7 @@ ___
 ```
             Visitors
 ```
- <a href="https://github.com/ai-man-123"><img src="https://cardivo.vercel.app/api?name=Aiman *͘⁴̅⁰͍⁴̵〆*&description=Hi,%20i%27m%20Aiman*͘⁴̅⁰͍⁴̵〆*%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/SRNkvVd/0ee76ad9eb93.jpg&backgroundColor=%23ecf0f1&instagram=@manuriosxnl_&github=Aiman&pattern=leaf&colorPattern=%23eaeaea" /><a>
+ <a href="https://github.com/ai-man-123"><img src="https://cardivo.vercel.app/api?name=Aiman *͘⁴̅⁰͍⁴̵〆*&description=Hi,%20i%27m%20Aiman*͘⁴̅⁰͍⁴̵〆*%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/W0LRr0b/0e5a74a6006e.jpg&backgroundColor=%23ecf0f1&instagram=@manuriosxnl_&github=Aiman&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 ___
