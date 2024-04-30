@@ -59,12 +59,6 @@ ___
   <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
-```
-            Visitors
-```
- <a href="https://github.com/aiman-tzy"><img src="https://cardivo.vercel.app/api?name=Aiman *͘⁴̅⁰͍⁴̵〆*&description=Hi,%20i%27m%20Aiman*͘⁴̅⁰͍⁴̵〆*%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/W0LRr0b/0e5a74a6006e.jpg&backgroundColor=%23ecf0f1&instagram=@manuriosxnl_&github=Aiman&pattern=leaf&colorPattern=%23eaeaea" /><a>
-</p>
-
 ___
 
 <h3 align="left">Languages and Tools:</h3>
